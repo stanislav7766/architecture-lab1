@@ -32,3 +32,4 @@ func timeHandler(res http.ResponseWriter, req *http.Request) {
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(w, "Hello")
 }
+//one more line to show second merge commit
