@@ -28,7 +28,6 @@ func timeHandler(res http.ResponseWriter, req *http.Request) {
 		log.Printf("Error writing response to the client: %s", err)
 	}
 }
-//useless change v2
 
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(w, "Hello")
