@@ -29,7 +29,7 @@ func timeHandler(res http.ResponseWriter, req *http.Request) {
 	}
 }
 //change1 for rebase
-
+//change2 for rebase
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(w, "Hello")
 }
