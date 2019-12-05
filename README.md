@@ -1,1 +1,3 @@
-first lab. Git and Golang server
+first lab. Git and Golang serve
+
+via KHYehorr
